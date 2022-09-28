@@ -1,8 +1,15 @@
 ### Hi there 👋
 
-My name is Nicolas Pavie and i'm currently working for the [BrailleNet.org](https://www.braillenet.org) association and the [DAISY Consortium](https://www.daisy.org) as a software engineer. 
+My name is Nicolas Pavie and i'm currently working for the [Association Valentin Haüy](https://www.avh.asso.fr/fr) association and the [DAISY Consortium](https://www.daisy.org) as a software engineer. 
 
 Please go check theirs websites and see what we do :)
+
+🔭 I'm currently participating on 
+ - the [Save as Daisy word addin](https://github.com/daisy/word-save-as-daisy), 
+ - some text-to-speech adapters modules for the [DAISY pipeline 2](https://github.com/daisy/pipeline)
+ - the code maintenance for the [SIDPT Workgroup](https://github.com/SIDPT) projects
+
+### About me
 
 I'm a passionate about IT in general, from low-level processors' architectures to high-level frameworks and APIs.
 I had a crush in my youth for Computer Graphics and decided to further explore this domain in my studies, up to a Ph. D. thesis on real-time rendering of surfacic details.
